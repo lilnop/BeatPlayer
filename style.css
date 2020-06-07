@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i64.tinypic.com/qrd9h5.png);
+  background: url("bg.png");
   background-size: cover;
 }
 body,html {
